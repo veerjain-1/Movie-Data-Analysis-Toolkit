@@ -1,2 +1,2 @@
 # Movie-Data-Analysis-Toolkit
-This project is a comprehensive Movie Data Analysis Toolkit designed to handle and process a dataset of movies, directors, actors, and financial information.
+This project is a comprehensive Movie Data Analysis Toolkit designed to handle and process a dataset of movies, directors, actors, and financial information. It includes functionalities to read and write movie data, calculate various statistics such as total sales by director, movie awards, profit percentages, and indie scores. Additionally, it can identify the highest-grossing movies by year and the most common actor pairs. The toolkit aims to provide a robust solution for managing and analyzing movie datasets efficiently.
